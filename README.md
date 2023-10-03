@@ -4,7 +4,7 @@
 
 
 ## PROYECTO COMPLETO
-El proyecto completo se puede descargar como .rar desde [aqui](https://github.com/Facustriker/TP_API_SinPaginacion_Olea_Facundo/raw/main/proyectoAPIREST.rar)
+El proyecto completo se puede descargar como .rar desde [aqui](https://github.com/Facustriker/TP_API_SinPaginacion_Olea_Facundo/raw/main/proyectoAPIREST.rar) y respetando las consignas propuestas, se ha refactorizado el código para que sea compatible con la base de datos H2
 
 ## DIAGRAMA DE CLASES
 Este es el diagrama de clases utilizado para realizar la implementacion del proyecto
