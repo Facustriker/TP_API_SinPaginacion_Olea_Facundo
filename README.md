@@ -21,4 +21,4 @@ La colección de PostMan a usarse junto con el proyecto se ha exportado en forma
 Debido a las restricciones de tamaño de GitHub el .jar no se encuentra en el repositorio por lo tanto se debe crear manualmente con el comando `gradle build` desde la terminal del IDE. Sin embargo, si se lo quiere descargar está disponible desde este [link](https://drive.google.com/drive/folders/1X5dZz3Se3pFweoMdDgoprTFbSXqPMvz4)
 
 ## LINK A RENDER
-Se puede acceder al deploy en Render desde [aqui](https://dashboard.render.com/web/srv-ckebhbltj22c73cm6g4g/deploys/dep-ckebinmnpffc73akq7og)
+Se puede acceder al deploy en Render desde [aqui](https://dashboard.render.com/web/srv-ckebhbltj22c73cm6g4g)
